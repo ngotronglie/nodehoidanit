@@ -9,6 +9,11 @@ const hostname = 'localhost';
 app.set('views', path.join(__dirname, 'views') ); // Đường dẫn đến thư mục views
 app.set('view engine', 'ejs'); // Đúng cú pháp: view engine
 
+// ***************************************************************************************
+// config static files
+app.use(express.static(path.join(__dirname, 'public'))); // Đường dẫn đến thư mục public
+// ***************************************************************************************
+
 // Route
 app.get('/', (req, res) => {
   res.render('sample'); 
