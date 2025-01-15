@@ -4,3 +4,7 @@ Link file roadmap: https://miro.com/app/board/uXjVPPXcCbM=/?share_link_id=559655
 Xem Full series "Kỹ Năng Sinh Tồn Dành Cho Pro IT - Beyond Your Coding Skills": https://www.youtube.com/watch?v=SfoyPOkJ5Aw&list=PLncHg6Kn2JT7wqtuFBbhjatkCvvNjhsQt&index=1
 
 template engine: hiển thị view link: https://expressjs.com/en/guide/using-template-engines.html
+
+
+docker: 
+    build, ship then run
