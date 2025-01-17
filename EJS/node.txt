@@ -1,3 +1,7 @@
 npm install --save-exact ejs
 npm install --save-exact dotenv
 npm install --save-dev  nodemon
+
+
+
+npm install --save-exact mysql2 ket noi db my sql 

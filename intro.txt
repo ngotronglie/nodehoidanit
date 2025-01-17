@@ -8,3 +8,5 @@ template engine: hiển thị view link: https://expressjs.com/en/guide/using-te
 
 docker: 
     build, ship then run
+
+    docker compose -f mysql.yml -p nodejs-sql up -d
